@@ -2,7 +2,7 @@
 
 This repository contains my personal write-up about my journey through the AWS re/Start program—a 3-month cloud training designed to help beginners gain hands-on experience and prepare for AWS certification.
 
-I created this repo to share my experience, lessons learned, and the resources that helped me along the way.
+I created this repo to share my experience and lessons learned.
 
 ### 📘 Full Write-Up
 
